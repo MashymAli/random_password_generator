@@ -9,7 +9,7 @@ def generate(n):
     initiale another list in which we store our password
     then iterate a loop to password length so it can save characters through random.choice in pw_list
     shuffle pw_list for more randomness
-    converts pw_list into string password
+    converts pw_list into string password. 
     """
 
     s1 = string.ascii_letters
