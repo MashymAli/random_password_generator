@@ -1,5 +1,5 @@
 # random_password_generator
-generate random password of specific length using random module in python.
+Generates random password of specific length using random module in python.
 
 ## Instructions:
 * Enter length of the password you want
